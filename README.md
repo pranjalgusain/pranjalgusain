@@ -1,77 +1,42 @@
 ## 👋 Hi, I'm Pranjal Gusain!
 
-**🎓 B.Tech in Artificial Intelligence & Data Science | 📊 Aspiring Data Analyst**
+** 📊 Aspiring Data Analyst**
 
-I'm a highly motivated and analytical professional with a passion for extracting insights from data. I specialize in SQL, PostgreSQL, Python, Excel, and Power BI. My goal is to leverage these skills to excel in a dynamic Analyst role within a fast-paced, growing company.
+I'm a dedicated and proactive data analyst with a passion for extracting insights from data. I specialize in Excel, SQL, Power BI and Tableau. My goal is to leverage these skills to excel in a dynamic Data Analyst role within a fast-paced, growing company.
 
 ## 🚀 Skills
-- **SQL**: PostgreSQL Server, PgAdmin Database
-- **Python**: Data Analysis, Pandas, Numpy
-- **Tools**: MS Excel, Power BI, MS PowerPoint
+- **SQL**: MySQL, query writing, data extraction, and manipulation
+- **Tools**: MS Excel, MS PowerPoint
+- **Data Visualization tools**: Power BI, Tableau
 - **Soft Skills**: Analytical Thinking, Problem Solving, Continuous Learning
 
 ## 💼 Experience
-**Data Analyst Intern (SME) | XcitEducation Worldwide**  
-*May 2022 - July 2022 | Delhi, India*  
-- Developed engaging video content to educate students on analytical thinking.
-- Created instructional materials on SQL and Python to empower students with data analysis skills.
+**Data Analyst Intern | AI Variant**  
+*Dec 2023 - May 2024 *  
+- Worked on two major projects.
+- Created interactive dashboards using Tableau and Power BI to visualize key trends, patterns and KPIs.
+- Provided actionable insights and recommendations based on comprehensive analysis, aiding in informed decision-making.
 
 ## 📈 Projects
-- **[🏏 Python Diwali Sales Data Analysis Project](https://github.com/yash29sh/Python-Diwali-Sales-Analysis-Project)**
-  - 🧠 Identify customer behaviour trends during the Diwali sales season.
-  - 📅 Provide actionable insights for sales strategy optimization.
-
-
-- **[💳 Power BI Credit Card Financial Dashboard](https://github.com/yash29sh/Credit-Card-Financial-Dashboard)**
-  - 🎉 Power BI Credit Card Financial Dashboard Project Unveiled! 🎉 
-    - Delivered real-time insights into crucial KPIs.
-    - Enhanced stakeholder decision-making capabilities.
-    - Identified potential challenges and optimized credit card operations.
-  - **Key Insights**:
-    - ⭐ Revenue Surge: 28.8% weekly growth (WoW), reaching $57M YTD.
-    - ⭐ Transaction Powerhouse: Total transaction volume of $46M.
-    - ⭐ Customer Acquisition: Activation rates at 57.5%.
-    - ⭐ Interest Earnings: $8M YTD from interest income.
-    - ⭐ Gender Split: $31M in transactions from males, $26M from females.
-    - ⭐ Card Type Preference: Blue & Silver cards account for 93% of transactions.
-    - ⭐ Top Performers: Texas, New York, and California contribute 68% of total revenue.
-    - ⭐ Delinquency Management: Current delinquency rate is 6.06%.
-
-
-- **[🎵 SQL Music Store Analysis Project](https://github.com/yash29sh/SQL_Music-Store-Analysis-Project)**
-  - 🎶 Comprehensive analysis of a music store database using SQL and PostgreSQL.
-  - 📊 Generated valuable insights to help understand sales trends and customer preferences.
-
-- **[👗 Excel Clothing Store Data Analysis](https://github.com/yash29sh/Excel_Store_Data_Analysis)**
-  - 📈 Created a data analysis report and dashboard using Excel for Vrinda Store.
-  - 🛒 Provided actionable insights on sales performance and inventory management.
-
-- **[📊 Power BI Madhav Store Analysis Dashboard](https://github.com/yash29sh/Madhav-Store-Sales-Analysis-Dashboard)**
-  - 📉 Developed an interactive Power BI dashboard to analyze and track online sales data.
-  - 🎯 Focused on visualizing key sales metrics to aid in strategic decision-making.
-
-- **[🏏 Python EDA On IPL Dataset](https://github.com/yash29sh/EDA-On-IPL-Dataset-Through-Python)**
-  - 🧠 Conducted exploratory data analysis on IPL datasets using Python.
-  - 📅 Analyzed match data to uncover trends, player performance, and match outcomes.
 
 
 
 ## 🎓 Education
-**Bachelor of Technology | Modern Institute of Technology & Research Centre**  
-*2020 - 2024 | Alwar, Rajasthan*  
-- Specialization: Artificial Intelligence & Data Science  
-- GPA: 8.54/10
+**Bachelor of Commerce | Delhi University (SOL)**  
+*2019 - 2022 | Delhi, India*   
+- CGPA: 7.39/10
 
 ## 🎖️ Certifications
-- **Deep Learning Summer Training** - Prolific Systems & Technologies Pvt. Ltd.
-- **SQL** - HackerRank
-- **Python For Data Analysis** - LinkedIn (Guide: Michele Vallisneri)
+- **DATA ANALYST CERTIFICATION** - ExcelR Solutions
+- **DATA ANALYTICS INTERNSHIP CERTIFICATE** - AI Variant 
+- **SQL (Basic)** - HackerRank
+- **SQL AND RELATIONAL DATABASES 101 CERTIFICATE** - Cognitive Class
 
 ## 🌐 Let's Connect
-- **Resume**: [Yash Shukla](https://drive.google.com/file/d/1tJcXQi9wdjPlqDeVDeUjgQG2J6r2iOAi/view)
-- **Portfolio**: [yash29sh.github.io](https://yash29sh.github.io/)
-- **LinkedIn**: [Yash Shukla](https://www.linkedin.com/in/yashshukla29)
-- **GitHub**: [Yash Shukla](https://github.com/yash29sh)
+- **Resume**: [Pranjal Gusain](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
+- **Portfolio**: []()
+- **LinkedIn**: [Pranjal Gusain](https://www.linkedin.com/in/pranjal-gusain-647114300/) 
+- **GitHub**: [Pranjal Gusain]()
 
 
 
