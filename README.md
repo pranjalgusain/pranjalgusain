@@ -36,7 +36,7 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 - **Resume**: [Pranjal Gusain](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
 - **Portfolio**: []()
 - **LinkedIn**: [Pranjal Gusain](https://www.linkedin.com/in/pranjal-gusain-647114300/) 
-- **GitHub**: [Pranjal Gusain]()
+- **GitHub**: [Pranjal Gusain](https://github.com/pranjalgusain)
 
 
 
