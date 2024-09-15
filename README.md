@@ -17,8 +17,6 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 - Created interactive dashboards using Tableau and Power BI to visualize key trends, patterns and KPIs.
 - Provided actionable insights and recommendations based on comprehensive analysis, aiding in informed decision-making.
 
-## 📈 Projects
-
 
 
 ## 🎓 Education
