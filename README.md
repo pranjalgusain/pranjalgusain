@@ -19,16 +19,16 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 
 
 
-## 🎓 Education
-**Bachelor of Commerce | Delhi University (SOL)**  
-*2019 - 2022 | Delhi, India*   
-- CGPA: 7.39/10
-
 ## 🎖️ Certifications
 - **DATA ANALYST CERTIFICATION** - ExcelR Solutions
 - **DATA ANALYTICS INTERNSHIP CERTIFICATE** - AI Variant 
 - **SQL (Basic)** - HackerRank
 - **SQL AND RELATIONAL DATABASES 101 CERTIFICATE** - Cognitive Class
+
+## 🎓 Education
+**Bachelor of Commerce | Delhi University (SOL)**  
+*2019 - 2022 | Delhi, India*   
+- CGPA: 7.39/10
 
 ## 🌐 Let's Connect
 - **Resume**: [Pranjal Gusain](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
