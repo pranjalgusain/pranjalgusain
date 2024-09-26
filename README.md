@@ -32,7 +32,7 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 
 ## 🌐 Let's Connect
 - **Resume**: [Pranjal Gusain](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
-- **Portfolio**: []()
+- **Portfolio**: [](file:///C:/Users/pranj/Downloads/Portfolio%20Website/index.html)
 - **LinkedIn**: [Pranjal Gusain](https://www.linkedin.com/in/pranjal-gusain-647114300/) 
 - **GitHub**: [Pranjal Gusain](https://github.com/pranjalgusain)
 
