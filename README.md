@@ -32,8 +32,8 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 
 ## 🌐 Let's Connect
 - [**Resume**](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
-- [**My Portfolio**](file:///C:/Users/pranj/Downloads/Portfolio%20Website/index.html)
-- [**LinkedIn**](https://www.linkedin.com/in/pranjal-gusain-647114300/) 
+- [**LinkedIn**](https://www.linkedin.com/in/pranjal-gusain-647114300/)
+- [**My Portfolio**](https://pranjalgusain.github.io/portfolio/) 
 - **Reach out to me** - pranjalgusain00@gmail.com
 
 
