@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pranjal Gusain!
 
-** 📊 Aspiring Data Analyst**
+** Welcome to my GitHub profile!**
 
 I'm a dedicated and proactive data analyst with a passion for extracting insights from data. I specialize in Excel, SQL, Power BI and Tableau. My goal is to leverage these skills to excel in a dynamic Data Analyst role within a fast-paced, growing company.
 
