@@ -31,10 +31,10 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 - CGPA: 7.39/10
 
 ## 🌐 Let's Connect
-- **Resume**: [Pranjal Gusain](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
-- **Portfolio**: [](file:///C:/Users/pranj/Downloads/Portfolio%20Website/index.html)
-- **LinkedIn**: [Pranjal Gusain](https://www.linkedin.com/in/pranjal-gusain-647114300/) 
-- **GitHub**: [Pranjal Gusain](https://github.com/pranjalgusain)
+- [**Resume**](https://drive.google.com/file/d/1AF2dlXty7aPLJkBuA_bIEVSUPpxCzSId/view?usp=sharing)
+- [**My Portfolio**](file:///C:/Users/pranj/Downloads/Portfolio%20Website/index.html)
+- [**LinkedIn**](https://www.linkedin.com/in/pranjal-gusain-647114300/) 
+- **Reach out to me** - pranjalgusain00@gmail.com
 
 
 
