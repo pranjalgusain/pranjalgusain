@@ -22,7 +22,7 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 ## 🎖️ Certifications
 - **DATA ANALYST CERTIFICATION** - ExcelR Solutions
 - **DATA ANALYTICS INTERNSHIP CERTIFICATE** - AI Variant 
-- **SQL (Basic)** - HackerRank
+- **SQL (Basic & Intermediate)** - HackerRank
 - **SQL AND RELATIONAL DATABASES 101 CERTIFICATE** - Cognitive Class
 
 ## 🎓 Education
