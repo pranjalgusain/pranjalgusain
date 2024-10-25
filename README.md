@@ -12,7 +12,7 @@ I'm a dedicated and proactive data analyst with a passion for extracting insight
 
 ## 💼 Experience
 **Data Analyst Intern | AI Variant**  
-*Dec 2023 - May 2024 *  
+*Dec 2023 - May 2024*  
 - Worked on two major projects.
 - Created interactive dashboards using Tableau and Power BI to visualize key trends, patterns and KPIs.
 - Provided actionable insights and recommendations based on comprehensive analysis, aiding in informed decision-making.
